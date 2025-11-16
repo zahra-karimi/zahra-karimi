@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi, I'm Zahra Karimi
 
-<!--
-**zahra-karimi/zahra-karimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Software Developer | Full-Stack Web Developer (React & Node.js)
+🌟 Always excited to learn, build, and collaborate!
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently building modern web applications using React, TypeScript, and MUI
+
+🌱 Learning more about backend development, APIs, and cloud services
+
+👯 Open to collaborating on full-stack projects, UI/UX improvements, and open-source
+
+💬 Ask me about React, MUI, JavaScript, and data-driven UI components
+
+📫 How to Reach Me
+
+📧 Email: thezahrakarimi1@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/zahra-karimi456/
+
+⚡ Fun Fact
+
+I love solving UI problems and turning complex ideas into clean, beautiful interfaces.
