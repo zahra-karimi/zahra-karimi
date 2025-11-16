@@ -37,18 +37,8 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-
-![Zahra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahra-karimi&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zahra-karimi&layout=compact&theme=radical)
-
-</div>
-
----
 
 ### 📫 Contact With Me
 
-💼 **LinkedIn:** [https://www.linkedin.com/in/zahra-karimi456/](https://www.linkedin.com/in/zahra-karimi456/)  
-📧 **Email:** zahra.karimi.dev@gmail.com
+💼 **LinkedIn:** [https://www.linkedin.com/in/zahra-karimi456/] 
+📧 **Email:** thezahrakarimi1@gmail.com
