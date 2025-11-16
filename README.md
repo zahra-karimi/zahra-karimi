@@ -37,21 +37,20 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=zahra-karimi&theme=radical&row=1&column=7)
+
+</div>
+
+
+---
+
 ### 📫 Contact Me
 <div align="center">
 
 💼 **LinkedIn:** [https://www.linkedin.com/in/zahra-karimi456/](https://www.linkedin.com/in/zahra-karimi456/)  
-
-
-</div>
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-
-![Zahra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahra-karimi&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zahra-karimi&layout=compact&theme=radical)
+📧 **Email:** zahra.karimi.dev@gmail.com
 
 </div>
