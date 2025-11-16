@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Zahra Karimi**
+# Hi, I'm **Zahra Karimi**
 
 💻 **Junior Software Developer | Full-Stack Web Developer (React & Node.js)**  
 🌟 **Always excited to learn, build, and collaborate!**
