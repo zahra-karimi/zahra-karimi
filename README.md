@@ -56,10 +56,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" style="border-radius:50%; margin:5px"/>
 </a>
 <a href="mailto:thezahrakarimi1@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" width="50" style="border-radius:50%; margin:5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="50" style="border-radius:50%; margin:5px"/>
 </a>
 
 </div>
+
 
 
 
