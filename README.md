@@ -51,6 +51,6 @@
 <div align="center">
 
 💼 **LinkedIn:** [https://www.linkedin.com/in/zahra-karimi456/](https://www.linkedin.com/in/zahra-karimi456/)  
-📧 **Email:** zahra.karimi.dev@gmail.com
+📧 **Email:** thezahrakarimi1@gmail.com
 
 </div>
