@@ -52,9 +52,14 @@
 ### 📫 Contact Me
 <div align="center">
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahra-karimi456/)
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thezahrakarimi1@gmail.com)
+<a href="https://www.linkedin.com/in/zahra-karimi456/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" style="border-radius:8px; margin:5px"/>
+</a>
+<a href="mailto:thezahrakarimi1@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="50" style="border-radius:8px; margin:5px"/>
+</a>
 
 </div>
+
 
 
