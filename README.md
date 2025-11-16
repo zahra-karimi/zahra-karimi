@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Languages & Tools
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -37,8 +37,21 @@
 
 ---
 
+### 📫 Contact Me
+<div align="center">
 
-### 📫 Contact With Me
+💼 **LinkedIn:** [https://www.linkedin.com/in/zahra-karimi456/](https://www.linkedin.com/in/zahra-karimi456/)  
 
-💼 **LinkedIn:** [https://www.linkedin.com/in/zahra-karimi456/] 
 
+</div>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+
+![Zahra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahra-karimi&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zahra-karimi&layout=compact&theme=radical)
+
+</div>
