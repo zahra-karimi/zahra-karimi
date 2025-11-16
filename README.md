@@ -52,14 +52,15 @@
 ### 📫 Contact Me
 <div align="center">
 
-<a href="https://www.linkedin.com/in/zahra-karimi456/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" style="border-radius:50%; margin:5px"/>
+<a href="https://www.linkedin.com/in/zahra-karimi456/" target="_blank" style="text-decoration:none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="" width="50" style="border-radius:50%; margin:5px"/>
 </a>
-<a href="mailto:thezahrakarimi1@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon.png/512px-Gmail_Icon.png" alt="Gmail" width="50" style="border-radius:50%; margin:5px"/>
+<a href="mailto:thezahrakarimi1@gmail.com" style="text-decoration:none;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon.png/512px-Gmail_Icon.png" alt="" width="50" style="border-radius:50%; margin:5px"/>
 </a>
 
 </div>
+
 
 
 
