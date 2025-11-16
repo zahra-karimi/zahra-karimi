@@ -41,4 +41,4 @@
 ### 📫 Contact With Me
 
 💼 **LinkedIn:** [https://www.linkedin.com/in/zahra-karimi456/] 
-📧 **Email:** thezahrakarimi1@gmail.com
+
