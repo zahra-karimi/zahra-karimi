@@ -19,9 +19,8 @@
 
 ---
 
-<div align="center">
-
 ### 🛠 Languages & Tools
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" style="border-radius:8px; margin:5px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" style="border-radius:8px; margin:5px"/>
