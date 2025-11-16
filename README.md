@@ -52,7 +52,7 @@
 ### 📫 Contact Me
 <div align="center">
 
-<a href="https://www.linkedin.com/in/zahra-karimi456/">
+<a href="https://www.linkedin.com/in/zahra-karimi456/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" style="border-radius:8px; margin:5px"/>
 </a>
 <a href="mailto:thezahrakarimi1@gmail.com">
