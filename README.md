@@ -4,6 +4,8 @@
 
 💻 **Junior Software Developer | Full-Stack Web Developer (React & Node.js)**  
 🌟 **Always excited to learn, build, and collaborate!**
+<!-- Profile Views Badge -->
+![Profile Views](https://komarev.com/ghpvc/?username=zahra-karimi&color=blue)
 
 </div>
 
