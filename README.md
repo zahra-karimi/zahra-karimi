@@ -33,7 +33,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" style="border-radius:8px; margin:5px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" style="border-radius:8px; margin:5px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" style="border-radius:8px; margin:5px"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg" alt="Tailwind CSS" width="50" style="border-radius:8px; margin:5px"/>
+<img src="https://logo.svgcdn.com/logos/tailwindcss.png" alt="Tailwind CSS" width="50" style="border-radius:8px; margin:5px"/>
 
 </div>
 
