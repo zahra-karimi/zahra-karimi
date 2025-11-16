@@ -53,13 +53,15 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/zahra-karimi456/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" style="border-radius:8px; margin:5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" style="border-radius:50%; margin:5px"/>
 </a>
 <a href="mailto:thezahrakarimi1@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="50" style="border-radius:8px; margin:5px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" width="50" style="border-radius:50%; margin:5px"/>
 </a>
 
 </div>
+
+
 
 
 
