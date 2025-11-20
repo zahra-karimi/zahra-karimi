@@ -42,8 +42,7 @@
 ### 🏆 GitHub Trophies
 <div align="center">
 
-![Trophy](https://github-trophies.vercel.app/?username=zahra-karimi&theme=radical)
-
+![Trophy](https://github-trophies.vercel.app/?username=zahra-karimi&theme=radical&title=Experience,NewUser,Commit,Followers,Repositories,Stars)
 
 </div>
 
