@@ -11,11 +11,11 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building modern **web applications** using **React, TypeScript, and MUI**  
-- 🌱 Learning more about **backend development**, **APIs**, and **cloud services**  
-- 👯 Open to collaborating on **full-stack projects**, **UI/UX improvements**, and **open-source**  
-- 💬 Ask me about **React, MUI, JavaScript, and data-driven UI components**  
-- ⚡ **Fun Fact:** I love solving UI problems and turning complex ideas into clean, beautiful interfaces.
+-  Currently building modern **web applications** using **React, TypeScript, and MUI**  
+-  Learning more about **backend development**, **APIs**, and **cloud services**  
+-  Open to collaborating on **full-stack projects**, **UI/UX improvements**, and **open-source**  
+-  Ask me about **React, MUI, JavaScript, and data-driven UI components**  
+-  **Fun Fact:** I love solving UI problems and turning complex ideas into clean, beautiful interfaces.
 
 ---
 
